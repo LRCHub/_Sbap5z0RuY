@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "SEVEN-RESPECT!",
+  "base_artist": "七次元生徒会！",
+  "createdAt": "2025-12-25T17:45:14.745853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SEVEN-RESPECT!",
+      "artist": "NANAJIGEN SEITOKAI!",
+      "has_synced": false,
+      "path": "select/01_SEVEN-RESPECT!_NANAJIGEN_SEITOKAI!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SEVEN-RESPECT!",
+      "artist": "七次元生徒会!",
+      "has_synced": false,
+      "path": "select/pl_01_SEVEN-RESPECT!_七次元生徒会!.txt"
+    }
+  ]
+}
